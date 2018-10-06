@@ -22,7 +22,7 @@ def whiterabbit():
 
     os.system('cls')
     sleep(5)
- '''   for i in range(len(white_rabbit_1)):
+    for i in range(len(white_rabbit_1)):
 
         if i != len(white_rabbit_1) - 1:
 
@@ -67,7 +67,7 @@ def whiterabbit():
     sleep(4)
     os.system('cls')
     sleep(1.5)
-    exit(0)'''
+    exit(0)
 
 
 
