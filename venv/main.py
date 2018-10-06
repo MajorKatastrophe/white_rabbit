@@ -7,7 +7,7 @@ from time import sleep
 
 
 
-
+# initializes strings to print later and one list i'm currently using to bring down the number of if statemtents
 white_rabbit_1 = 'Wake up, Neo...'
 white_rabbit_2 = 'The Matrix has you...'
 white_rabbit_3 = 'Follow the white rabbit.'
@@ -22,7 +22,7 @@ def whiterabbit():
 
     os.system('cls')
     sleep(5)
-    for i in range(len(white_rabbit_1)):
+ '''   for i in range(len(white_rabbit_1)):
 
         if i != len(white_rabbit_1) - 1:
 
@@ -67,7 +67,7 @@ def whiterabbit():
     sleep(4)
     os.system('cls')
     sleep(1.5)
-    exit(0)
+    exit(0)'''
 
 
 
